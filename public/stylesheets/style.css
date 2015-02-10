@@ -112,8 +112,8 @@ a:hover {
 
 #linkedin .socialMediaLink:hover,
 #linkedin .socialMediaLink:focus {
-	border: 4px solid #0E76A8;
-	background-color: #0E76A8;
+	border: 4px solid #0177b5;
+	background-color: #0177b5;
 }
 
 #facebook .socialMediaLink:hover,
@@ -124,14 +124,14 @@ a:hover {
 
 #github .socialMediaLink:hover,
 #github .socialMediaLink:focus {
-	border: 4px solid #FFAE19;
-	background-color: #FFAE19;
+	border: 4px solid #9cdaf1;
+	background-color: #9cdaf1;
 }
 
-#bitbucket .socialMediaLink:hover,
-#bitbucket .socialMediaLink:focus {
-	border: 4px solid #053145;
-	background-color: #053145;
+#quora .socialMediaLink:hover,
+#quora .socialMediaLink:focus {
+	border: 4px solid #A82400;
+	background-color: #A82400;
 }
 
 #travel .socialMediaLink:hover,
