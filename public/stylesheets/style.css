@@ -140,11 +140,18 @@ a:hover {
 	background-color: #253d61;
 }
 
+#spotify .socialMediaLink:hover,
+#spotify .socialMediaLink:focus {
+	border: 4px solid #b4d600;
+	background-color: #b4d600;
+}
+
 #travel .socialMediaLink:hover,
 #travel .socialMediaLink:focus {
 	border: 4px solid #87c309;
 	background-color: #87c309;
 }
+
 
 
 
