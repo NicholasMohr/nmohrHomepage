@@ -75,7 +75,7 @@ a:hover {
 }
 
 #headerHolder {
-	padding-top: 20px;
+	padding-top: 60px;
 	text-align: center;
 }
 
@@ -132,6 +132,12 @@ a:hover {
 #quora .socialMediaLink:focus {
 	border: 4px solid #A82400;
 	background-color: #A82400;
+}
+
+#eighttracks .socialMediaLink:hover,
+#eighttracks .socialMediaLink:focus {
+	border: 4px solid #253d61;
+	background-color: #253d61;
 }
 
 #travel .socialMediaLink:hover,
